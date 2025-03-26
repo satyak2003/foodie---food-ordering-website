@@ -32,13 +32,13 @@ git clone <repo-url>
 cd foodie-in
 ```
 
-2.**Install dependencies:** Install the required node packaged
+ 2.**Install dependencies:** Install the required node packages
 ```bash
 npm install
 ```
-3.**Connect MongoDB:** Replace the connection string in db.js with your MongoDB connection string.
+ 3.**Connect MongoDB:** Replace the connection string in db.js with your MongoDB connection string.
 
-4.**Run the project:** Start the backend and frontend using nodemon - 
+ 4.**Run the project:** Start the backend and frontend using nodemon - 
 ```bash
 nodemon backend/index.js  
 nodemon frontend/index.js  
