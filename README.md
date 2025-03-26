@@ -27,9 +27,10 @@ Foodie.in is a full-stack food ordering website that allows users to browse food
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
-   git clone <repo-url>
-   cd foodie-in
+```bash
+git clone <repo-url>
+cd foodie-in
+```
 
 2.**Install dependencies:** Install the required node packaged
 ```bash
