@@ -7,7 +7,6 @@ Foodie.in is a full-stack food ordering website that allows users to browse food
 - **Frontend:** JavaScript, React (Vite)
 - **Backend:** Node.js, Express.js, MongoDB
 - **Authentication:** bcrypt
-- **Payment Integration:** Stripe
 - **Development Tools:** nodemon (for running the backend and frontend)
 
 ## 🌟 **Features**
