@@ -25,11 +25,11 @@ Foodie.in is a full-stack food ordering website that allows users to browse food
   - View and update orders.  
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 
-- Screenshots :
-- 
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 200331" src="https://github.com/user-attachments/assets/f8ac2348-5929-4730-8506-cfc99f01c6c9" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 200404" src="https://github.com/user-attachments/assets/c608dbe0-578d-4c7d-aa43-60cdecaab5ec" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 200510" src="https://github.com/user-attachments/assets/eb885897-91cc-400d-a715-ef2d8516a5e9" />
+- **Screenshots** :
+
+- <img width="1920" height="1080" alt="Screenshot 2025-07-24 200331" src="https://github.com/user-attachments/assets/f8ac2348-5929-4730-8506-cfc99f01c6c9" />
+- <img width="1920" height="1080" alt="Screenshot 2025-07-24 200404" src="https://github.com/user-attachments/assets/c608dbe0-578d-4c7d-aa43-60cdecaab5ec" />
+- <img width="1920" height="1080" alt="Screenshot 2025-07-24 200510" src="https://github.com/user-attachments/assets/eb885897-91cc-400d-a715-ef2d8516a5e9" />
 
 ## ⚙️ **Installation Instructions**
 To run this project locally, follow these steps:
